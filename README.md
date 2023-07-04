@@ -1,1 +1,1 @@
-# SchoolManagementSystem
+# Multi Vendor Ecommerce Project
