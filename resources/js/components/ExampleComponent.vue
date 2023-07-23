@@ -21,3 +21,9 @@
         }
     }
 </script>
+<style>
+.card-body{
+    font-size: 45px;
+    color: yellowgreen;
+}
+</style>
